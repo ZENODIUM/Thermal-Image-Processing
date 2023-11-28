@@ -54,4 +54,12 @@ To experience these features, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/Thermal-Image-Processing.git
-   cd Thermal-Image-Processing```
+   cd Thermal-Image-Processing
+
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+3. Run Flask application
+   ```bash
+   python app.py
+Visit http://localhost:5000 in your web browser and upload a thermal image to see the implemented features 
