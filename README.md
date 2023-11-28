@@ -30,8 +30,10 @@ Welcome to the Thermal Image Processing Flask Application! This project implemen
 
 7. **Erosion and Dilation:**
    - Morphological operations for modifying thermal image structures, useful for feature extraction.
-     - Erosion: ![Erosion](Thermal/static/erosion.jpg)
-     - Dilation: ![Dilation](Thermal/static/dilation.jpg)
+     - Erosion:
+       ![Erosion](Thermal/static/erosion.jpg)
+     - Dilation:
+       ![Dilation](Thermal/static/dilation.jpg)
 
 8. **Bilateral Filtering:**
    - Smoothing of thermal images while preserving temperature variations.
