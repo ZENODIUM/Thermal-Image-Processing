@@ -2,6 +2,8 @@
 
 Welcome to the Thermal Image Processing Flask Application! This project implements various image processing features tailored for thermal images.
 
+## Interface Screenshots
+
 ## Implemented Features
 
 1. **Thresholding:**
